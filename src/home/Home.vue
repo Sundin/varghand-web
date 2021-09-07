@@ -1,7 +1,7 @@
 <template>
   <main-layout>
     <div class=content>
-      <img alt="Sound Realms logo" class="logo" src="../assets/varghand.png">
+      <img alt="Varghand logo" class="logo" src="../assets/varghand.png">
     </div>
   </main-layout>
 </template>
