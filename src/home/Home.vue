@@ -4,6 +4,7 @@
       <img alt="Varghand logo" class="logo" src="../assets/varghand.png">
       <h1>Our games:</h1>
       <a href="https://www.sound-realms.com"><img src="../assets/dreadhorn.png" class="logo" /></a>
+      <p>Contact: dm@varghand.com</p>
     </div>
   </main-layout>
 </template>
