@@ -22,7 +22,10 @@
   </p>
   <p>
     We currently seek a partnership that can help us take Sound Realms to the
-    next level. Sounds interesting? Read more in our
+    next level.
+  </p>
+  <p>
+    Sounds interesting? Read more in our
     <a
       href="https://docs.google.com/presentation/d/1i8RQZ92paLX31aY41Hz_ojPtonYEpQxlVebE-dW2cKk/edit#slide=id.p1"
       target="_blank"
