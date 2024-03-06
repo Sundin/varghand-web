@@ -1,27 +1,56 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div>
-      <img src="./assets/the_audio_adventure_system.jpg" class="bigImage" />
-    <img src="./assets/intro.jpg" class="bigImage" />
-    <img src="./assets/licenses.jpg" class="bigImage" />
-    <img src="./assets/kickstarter.jpg" class="bigImage" />
-  </div>
-  <p>Sound Realms is a platform for audio based interactive games.</p><p>We currently seek a partner with established sales and marketing channels that can help us take Sound Realms to the next level.</p>
-  <p>Read more at <a href="https://www.sound-realms.com">sound-realms.com</a>.</p>
+  <img src="./assets/the_audio_adventure_system.jpg" class="bigImage" />
+  <p>
+    Hi! We are Varghand Publishing AB, and we have created
+    <a href="https://www.sound-realms.com">Sound Realms</a> – a platform for
+    audio-based interactive games on Android and iOS.
+  </p>
+  <img src="./assets/licenses.jpg" class="bigImage" />
+  <p>
+    At the moment we hold 4 licenses for IPs to publish on our platform. These
+    are <i>Lone Wolf</i>, <i>Steve Jackson's F.I.S.T.</i>,
+    <i>Dracula: Curse of the Vampire</i>, and <i>Mace & Magic</i> (Sound Realms
+    original IP). Our aim is to become the number one brand for fantasy, sci-fi,
+    and horror audio content.
+  </p>
+  <img src="./assets/kickstarter.jpg" class="bigImage" />
+  <p>
+    In October 2023 we established our first sales through a successful
+    Kickstarter campaign that raised 365 000 SEK from 687 backers.
+  </p>
+  <p>
+    We currently seek a partnership that can help us take Sound Realms to the
+    next level.
+  </p>
+  <p>
+    Sounds interesting? Read more in our
+    <a
+      href="https://docs.google.com/presentation/d/1i8RQZ92paLX31aY41Hz_ojPtonYEpQxlVebE-dW2cKk/edit#slide=id.p1"
+      target="_blank"
+      >pitch deck</a
+    >!
+  </p>
   <p>Contact: dm@varghand.com</p>
   <img src="./assets/varghand.png" class="image" />
-
-
+  <p>Varghand Publishing AB, 2024.</p>
 </template>
 
 <style scoped>
 .bigImage {
   width: 100%;
+  padding: 20px;
+}
+.srLogo {
+  width: 60%;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .image {
   width: 30%;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .logo {
   height: 6em;
