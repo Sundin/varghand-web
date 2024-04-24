@@ -1,13 +1,19 @@
 <script setup lang="ts"></script>
 
 <template>
-  <img src="./assets/the_audio_adventure_system.jpg" class="bigImage" />
+  <img
+    src="./assets/the_audio_adventure_system.jpg"
+    class="bigImage"
+  >
   <p>
     Hi! We are Varghand Publishing AB, and we have created
     <a href="https://www.sound-realms.com">Sound Realms</a> – a platform for
     audio-based interactive games on Android and iOS.
   </p>
-  <img src="./assets/licenses.jpg" class="bigImage" />
+  <img
+    src="./assets/licenses.jpg"
+    class="bigImage"
+  >
   <p>
     At the moment we hold 4 licenses for IPs to publish on our platform. These
     are <i>Lone Wolf</i>, <i>Steve Jackson's F.I.S.T.</i>,
@@ -15,7 +21,10 @@
     original IP). Our aim is to become the number one brand for fantasy, sci-fi,
     and horror audio content.
   </p>
-  <img src="./assets/kickstarter.jpg" class="bigImage" />
+  <img
+    src="./assets/kickstarter.jpg"
+    class="bigImage"
+  >
   <p>
     In October 2023 we established our first sales through a successful
     Kickstarter campaign that raised 365 000 SEK from 687 backers.
@@ -29,11 +38,13 @@
     <a
       href="https://docs.google.com/presentation/d/1i8RQZ92paLX31aY41Hz_ojPtonYEpQxlVebE-dW2cKk/edit#slide=id.p1"
       target="_blank"
-      >pitch deck</a
-    >!
+    >pitch deck</a>!
   </p>
   <p>Contact: dm@varghand.com</p>
-  <img src="./assets/varghand.png" class="image" />
+  <img
+    src="./assets/varghand.png"
+    class="image"
+  >
   <p>Varghand Publishing AB, 2024.</p>
 </template>
 
