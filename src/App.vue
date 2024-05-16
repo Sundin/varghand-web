@@ -2,7 +2,7 @@
 
 <template>
   <img
-    src="./assets/the_audio_adventure_system.jpg"
+    src="./assets/varghand_cover.jpg"
     class="bigImage"
   >
   <p>
@@ -11,7 +11,7 @@
     audio-based interactive games on Android and iOS.
   </p>
   <img
-    src="./assets/licenses.jpg"
+    src="./assets/the_audio_adventure_system.jpg"
     class="bigImage"
   >
   <p>
@@ -22,13 +22,17 @@
     and horror audio content.
   </p>
   <img
-    src="./assets/kickstarter.jpg"
+    src="./assets/licenses.jpg"
     class="bigImage"
   >
   <p>
     In October 2023 we established our first sales through a successful
     Kickstarter campaign that raised 365 000 SEK from 687 backers.
   </p>
+  <img
+    src="./assets/kickstarter.jpg"
+    class="bigImage"
+  >
   <p>
     We currently seek a partnership that can help us take Sound Realms to the
     next level.
@@ -42,10 +46,15 @@
   </p>
   <p>Contact: dm@varghand.com</p>
   <img
-    src="./assets/varghand.png"
+    src="./assets/varghand_2024.jpeg"
+    class="bigImage"
+  >
+  <img
+    src="./assets/varghand_logo.png"
     class="image"
   >
   <p>Varghand Publishing AB, 2024.</p>
+  <p>dm@varghand.com</p>
 </template>
 
 <style scoped>
