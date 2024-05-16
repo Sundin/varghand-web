@@ -21,6 +21,10 @@
     original IP). Our aim is to become the number one brand for fantasy, sci-fi,
     and horror audio content.
   </p>
+  <p>
+    In the longer term, we also hope to expand our library of games in order to
+    appeal to an even wider audience.
+  </p>
   <img
     src="./assets/licenses.jpg"
     class="bigImage"
