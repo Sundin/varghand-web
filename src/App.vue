@@ -60,7 +60,8 @@
 <style scoped>
 .bigImage {
   width: 100%;
-  padding: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 .srLogo {
   width: 60%;
