@@ -31,7 +31,7 @@
   >
   <p>
     In October 2023 we established our first sales through a successful
-    Kickstarter campaign that raised 365 000 SEK from 687 backers.
+    Kickstarter campaign that raised 365 000 SEK (34 000 USD) from 687 backers.
   </p>
   <img
     src="./assets/kickstarter.jpg"
