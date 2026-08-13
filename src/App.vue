@@ -57,7 +57,7 @@
     src="./assets/varghand_logo.png"
     class="image"
   >
-  <p>Varghand Publishing AB, 2024.</p>
+  <p>Varghand Publishing AB, 2026.</p>
   <p>dm@varghand.com</p>
 </template>
 
